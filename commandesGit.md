@@ -1,4 +1,4 @@
-# liste de commandes git
+# Liste de commandes git
 
 - git branch
 - git blame
